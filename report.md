@@ -1,6 +1,6 @@
 # Case Study Report: The Self-Pruning Neural Network
 
-**ubmission for Tredence AI Engineering Internship – 2025 Cohort**
+**Submission for Tredence AI Engineering Internship – 2025 Cohort**
 
 ---
 
